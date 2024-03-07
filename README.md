@@ -791,7 +791,7 @@ plt.show()
 
 ### Findings for Community 1:
 
-Based on the Top 10 Most Common Words in bios chart for Community 3, it's evident that active users often include pronouns like "she/her" or "he/him" to describe themselves. They also tend to share their interests, using verbs like "love" and "like" and nouns such as "games" and "art" to express their hobbies. Additionally, it's common for users to mention their occupations, with "artist" and "writer" being popular choices among amateurs on Bluesky.
+Based on the Top 10 Most Common Words in bios chart for Community 1, it's evident that active users often include pronouns like "she/her" or "he/him" to describe themselves. They also tend to share their interests, using verbs like "love" and "like" and nouns such as "games" and "art" to express their hobbies. Additionally, it's common for users to mention their occupations, with "artist" and "writer" being popular choices among amateurs on Bluesky.
 
 
 
@@ -945,7 +945,7 @@ plt.show()
 
 ### Findings for Community 3:
 
-Based on the Top 10 Most Common Words in bios chart for Community 1, it's evident that active users  in the community are anime lovers who likes vtuber and Japan culture. We can see words such as "like" , "love", "vtuber", "japan", "fan"
+Based on the Top 10 Most Common Words in bios chart for Community 3, it's evident that active users  in the community are anime lovers who likes vtuber and Japan culture. We can see words such as "like" , "love", "vtuber", "japan", "fan"
 
 Note: VTuber (Japanese: ブイチューバー) or virtual YouTuber is an online entertainer who uses a virtual avatar generated using computer graphics. Real-time motion capture software or technology are often—but not always—used to capture movement. The digital trend originated in Japan in the mid-2010s, and has become an international online phenomenon in the 2020s.
 
